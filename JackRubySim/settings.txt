@@ -1,0 +1,4 @@
+window: size=48x32;
+font: square.ttf, size = 12;
+window: cellsize=24x24;
+U+E001: ./test.png, resize=1152x768, resize-filter=nearest

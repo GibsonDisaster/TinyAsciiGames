@@ -1,0 +1,1 @@
+Skeleton project that I can git clone anytime I want to start a new project with python/blt

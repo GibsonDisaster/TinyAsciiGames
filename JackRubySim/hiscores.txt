@@ -1,0 +1,4 @@
+nardopolo 30000
+henning 1000
+h2n 100000
+wet_caleb 99950
